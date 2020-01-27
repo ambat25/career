@@ -16,6 +16,6 @@
     ],
     "android": {
       "package": "dev.ambat.careerguide"
-    },
+    }
   }
 }
